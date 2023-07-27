@@ -1,0 +1,5 @@
+/src/vendor
+/.fleet
+/.idea
+/.vscode
+/postgrsql
